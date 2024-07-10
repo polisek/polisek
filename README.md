@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 I'm a Web Developer<br>🎮 I'm a FiveM and RedM developer.<br>📖 I work in Lua, HTML, CSS, SASS, JS( js, jquery, vue ),PHP
+🌐 I'm a Web Developer<br>🎮 I'm a FiveM and RedM developer.<br>📖 I work in Lua, HTML, CSS, SASS, JS( js, jquery, vue, react ),PHP
 
 
 ## 🌐 Socials:
