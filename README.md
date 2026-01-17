@@ -54,10 +54,10 @@
   <table align="center" style="border: none;">
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Polisek&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Polisek's Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Polisek&theme=tokyonight&hide_border=true&show_icons=true" alt="Polisek's Stats" />
       </td>
       <td align="center" style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Polisek&theme=tokyonight&hide_border=true" alt="Polisek's Streak" />
+        <img src="https://streak-stats.demolab.com?user=Polisek&theme=tokyonight&hide_border=true" alt="Polisek's Streak" />
       </td>
     </tr>
   </table>
@@ -71,7 +71,7 @@
 
   <br><br>
   
-  <img src="https://visitcount.itsvg.in/api?id=Polísek&icon=5&color=6" alt="Visitor Count" />
+  <img src="https://visitcount.itsvg.in/api?id=Polisek&icon=5&color=6" alt="Visitor Count" />
 
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
