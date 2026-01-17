@@ -71,7 +71,7 @@
 
   <br><br>
   
-  <img src="https://visitcount.itsvg.in/api?id=Polisek&icon=5&color=6" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Polisek&label=Profile%20Views&color=blue&style=flat" alt="Visitor Count" />
 
   <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
